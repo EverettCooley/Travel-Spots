@@ -1,14 +1,12 @@
-//
-//  Travel_SpotsApp.swift
-//  Travel-Spots
-//
-//  Created by v on 7/26/22.
-//
-
 import SwiftUI
+import Firebase
 
 @main
 struct Travel_SpotsApp: App {
+    init(){
+        FirebaseApp.configure()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()

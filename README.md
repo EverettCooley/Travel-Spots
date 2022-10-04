@@ -4,5 +4,4 @@ To make traveling activities easy. You can search a location and get view the ti
 
 
 ## Dependencies ##
-Dependencies include:
 Firestore (should be included in the project package)

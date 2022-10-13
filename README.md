@@ -4,4 +4,4 @@ To make traveling activities easy. You can search a location and get view the ti
 
 
 ## Dependencies ##
-Firestore (should be included in the project package)
+Firestore
